@@ -1,0 +1,13 @@
+body {
+    background-color: gold;
+    text-align: center;
+    font-size: 16px;
+}
+
+div {
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px;
+    border: solid 3px red;
+    border-radius: 10px;
+}
